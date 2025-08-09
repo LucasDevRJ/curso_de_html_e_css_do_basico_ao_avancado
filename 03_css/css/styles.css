@@ -20,3 +20,10 @@ p {
     color: aqua;
     padding: 5px;
 }
+
+/* ID */
+#exclusive-title {
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+}
