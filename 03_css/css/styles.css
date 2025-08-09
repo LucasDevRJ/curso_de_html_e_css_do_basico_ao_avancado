@@ -14,3 +14,9 @@ p {
 /* Algum comentário */
 /* Mais um comentário */
 /* Terceiro comentário */
+
+.paragraph {
+    background-color: #000;
+    color: aqua;
+    padding: 5px;
+}
