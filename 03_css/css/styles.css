@@ -136,3 +136,27 @@ h2 {
     background-position: center;
     background-size: cover;
 }
+
+/* Largura e altura */
+.height-width {
+    height: 200px;
+    width: 100px;
+    background-color: red;
+}
+
+.height-width-2 {
+    height: 300px;
+    background-color: #333;
+}
+
+/* Padding */
+.without-padding,
+.padding {
+    background-color: #111;
+    color: #FFF;
+}
+
+.padding {
+    background-color: #333;
+    padding: 20px;
+}
