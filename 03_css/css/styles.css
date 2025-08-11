@@ -195,3 +195,14 @@ h2 {
     padding: 50px;
     box-sizing: border-box;
 }
+
+/* Borda */
+.border {
+    border: 5px solid red;
+    padding: 10px;
+}
+
+.border-2 {
+    border: 2px dotted #931;
+    padding: 25px;
+}
