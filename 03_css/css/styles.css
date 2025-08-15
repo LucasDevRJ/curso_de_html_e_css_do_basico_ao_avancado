@@ -278,3 +278,14 @@ h2 {
     background-color: #399;
     color: #FFF;
 }
+
+/* Text align */
+.text-aligned {
+    text-align: right;
+}
+
+.container-center {
+    text-align: center;
+    width: 300px;
+    border: 1px solid red;
+}
