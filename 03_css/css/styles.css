@@ -302,3 +302,12 @@ h2 {
 .remove-underline {
     text-decoration: none;
 }
+
+/* Text trasnform */
+.upper {
+    text-transform: uppercase;
+}
+
+.lower {
+    text-transform: lowercase;
+}
