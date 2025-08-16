@@ -400,3 +400,25 @@ h2 {
     width: 100px;
     height: 100px;
 }
+
+/* Relative */
+.relative {
+    position: relative;
+    background-color: #224;
+    color: #FFF;
+    width: 100px;
+    height: 100px;
+    top: 100px;
+    left: 40px;
+}
+
+/* Absolute */
+.absolute {
+    position: absolute;
+    background-color: #964;
+    color: #FFF;
+    width: 100px;
+    height: 100px;
+    top: 2px;
+    right: 2px;
+}
