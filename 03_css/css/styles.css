@@ -391,3 +391,12 @@ h2 {
 .invisible {
     display: none;
 }
+
+/* Static */
+.static {
+    position: static;
+    background-color: #391;
+    color: #FFF;
+    width: 100px;
+    height: 100px;
+}
