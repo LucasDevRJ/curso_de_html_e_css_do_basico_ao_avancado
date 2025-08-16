@@ -387,3 +387,7 @@ h2 {
     display: block;
     margin: 10px
 }
+
+.invisible {
+    display: none;
+}
