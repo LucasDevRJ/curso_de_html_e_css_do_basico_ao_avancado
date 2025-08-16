@@ -448,3 +448,24 @@ h2 {
     bottom: 10px;
     right: 10px;
 }
+
+/* Fixed */
+.fixed {
+    width: 100px;
+    height: 100px;
+    background-color: #851;
+    border: 1px solid blue;
+    position: fixed;
+    top: 50px;
+    right: 100px;
+}
+
+/* Sticky */
+.sticky {
+    width: 100px;
+    height: 100px;
+    background-color: #994;
+    border: 1px solid green;
+    position: sticky;
+    top: 10px
+}
