@@ -8,3 +8,10 @@ body {
     background-color: #DDD;
     margin-bottom: 20px;
 }
+
+/* Aula 2 - Column */
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    background-color: #CCC;
+}
