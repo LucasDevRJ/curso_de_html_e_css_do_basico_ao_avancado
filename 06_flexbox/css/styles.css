@@ -106,3 +106,20 @@ body {
 .gap .box {
     width: 32%;
 }
+
+/* Aula 7: Order */
+.order {
+    display: flex;
+}
+
+#one {
+    order: 1;
+}
+
+#two {
+    order: 2;
+}
+
+#three {
+    order: 3;
+}
