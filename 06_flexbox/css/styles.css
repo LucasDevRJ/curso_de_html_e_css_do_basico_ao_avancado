@@ -1,0 +1,10 @@
+body {
+    padding-bottom: 500px;
+}
+
+/* Aula 1 - Flex */
+.flex {
+    display: flex;
+    background-color: #DDD;
+    margin-bottom: 20px;
+}
